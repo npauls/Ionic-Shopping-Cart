@@ -1,4 +1,6 @@
-# FoodKart
+# FoodKart 
+
+Food Cart
 
 This is an simple Food Purchase App, build in HTML5 - Cordova. Since it is a web app, you can easily port it to all the platforms.
 
